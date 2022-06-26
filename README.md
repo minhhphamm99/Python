@@ -1,2 +1,2 @@
-# Python
-All python related projects
+# Python related projects
+Assigments and projects practice in Grad school
